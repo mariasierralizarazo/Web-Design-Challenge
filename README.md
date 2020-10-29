@@ -22,13 +22,14 @@ In general, the website has 3 important elements:
   <img width="560" height="250" src="https://github.com/mariasierralizarazo/Web-Design-Challenge/blob/master/WebVisualizations/assets/images/figures/responsive_small.png?raw=true">
 </p>
 <h3> Pages on the website: </h3>
-* Landing page [Index.html]: It contains the general project's explanation.</li>
-* Visualization pages:
-  * Maximum temperature 
-  * Humidity
-  * Cloudiness
-  * Wind speed
-* Comparison page[comparison.html]: It allows the user to see all the graphs in a better size for comparison between them. It does also allow the navigation clicking the images.
-* Data page [data.html]: It displays the data used for all the analyses. For the production of this view, it was necessary to use the Pandas module that helped to generate the table HTML code after reading the CSV file. [Used code here] 
-
+<li> Landing page<a href="https://github.com/mariasierralizarazo/Web-Design-Challenge/blob/master/WebVisualizations/index.html">[index.html]</a>: It contains the general project's explanation.</li>
+<li> Comparison page<a href="https://github.com/mariasierralizarazo/Web-Design-Challenge/blob/master/WebVisualizations/comparison.html">[comparison.html]</a>: It allows the user to see all the graphs in a better size for comparison between them. It does also allow the navigation clicking the images. </li>
+<li> Data page<a href="https://github.com/mariasierralizarazo/Web-Design-Challenge/blob/master/WebVisualizations/comparison.html"> [data.html]</a>: It displays the data used for all the analyses. For the production of this view, it was necessary to use the Pandas module that helped to generate the table HTML code after reading the CSV file. [Used code here] </li>
+<li>  Visualization pages: </li>
+<ul>
+  <li>  Maximum temperature <a href="https://github.com/mariasierralizarazo/Web-Design-Challenge/blob/master/WebVisualizations/temp.html">[temp.html]</a></li>
+  <li>  Humidity <a href="https://github.com/mariasierralizarazo/Web-Design-Challenge/blob/master/WebVisualizations/humidity.html">[humidity.html]</a></li>
+  <li>  Cloudiness <a href="https://github.com/mariasierralizarazo/Web-Design-Challenge/blob/master/WebVisualizations/cloudiness.html">[cloudiness.html]</a></li>
+  <li>  Wind speed <a href="https://github.com/mariasierralizarazo/Web-Design-Challenge/blob/master/WebVisualizations/windspeed.html">[windspeed.html]</a></li>
+</ul>
 
