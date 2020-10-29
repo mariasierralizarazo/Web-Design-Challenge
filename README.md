@@ -33,5 +33,5 @@ In general, the website has 3 important elements:
   <li>  Wind speed <a href="https://github.com/mariasierralizarazo/Web-Design-Challenge/blob/master/WebVisualizations/windspeed.html">[windspeed.html]</a></li>
 </ul>
 <br></br>
-Finally, this website was host on the Github server <a href="https://mariasierralizarazo.github.io/"> [Latitude Website], and all the pages were deployed in GitHub too. 
+Finally, this website was host on the Github server <a href="https://mariasierralizarazo.github.io/"> [Latitude Website] </a>, and all the pages were deployed in GitHub too. 
 
