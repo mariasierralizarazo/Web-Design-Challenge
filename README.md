@@ -22,16 +22,13 @@ In general, the website has 3 important elements:
   <img width="560" height="250" src="https://github.com/mariasierralizarazo/Web-Design-Challenge/blob/master/WebVisualizations/assets/images/figures/responsive_small.png?raw=true">
 </p>
 <h3> Pages on the website: </h3>
-<li>Landing page [Index.html]: It contains the general project's explanation.</li>
-<li>Visualization pages:
-  <ul>
-<li>Maximum temperature </li>
-<li>Humidity </li>
-<li>Cloudiness </li>
-<li>Wind speed</li>
-  </ul>
-</li>
-<li>Comparison page[comparison.html]: It allows the user to see all the graphs in a better size for comparison between them. It does also allow the navigation clicking the images. </li>
-<li>Data page [data.html]: It displays the data used for all the analyses. For the production of this view, it was necessary to use the Pandas module that helped to generate the table HTML code after reading the CSV file. [Used code here] </li>
+* Landing page [Index.html]: It contains the general project's explanation.</li>
+* Visualization pages:
+  * Maximum temperature 
+  * Humidity
+  * Cloudiness
+  * Wind speed
+* Comparison page[comparison.html]: It allows the user to see all the graphs in a better size for comparison between them. It does also allow the navigation clicking the images.
+* Data page [data.html]: It displays the data used for all the analyses. For the production of this view, it was necessary to use the Pandas module that helped to generate the table HTML code after reading the CSV file. [Used code here] 
 
 
