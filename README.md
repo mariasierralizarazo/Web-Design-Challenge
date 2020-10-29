@@ -13,6 +13,7 @@ In general, the website has 3 important elements:
 <li><strong> Navbar</strong>: located at the top, allows the navigation through all the pages. On the left side, it has the "logo" of the website with the highlight word Latitude, and on the right side, it has the link to the data and comparison pages and a drop-down menu with the links to the temperature, humidity, cloudiness, and wind speed analysis.</li>
 <li><strong>Visualization menu</strong>: located at the right side of the visualization and index pages, it allows the user to navigate on the visualization pages. This menu eases access. </li>
 <li><strong>Content</strong>: Where the principal information on each page is posted.</li> 
+<br>
 <strong>Note:</strong>It is important to point out that all the pages on this website are responsible, which means that they change the structure with the size of the screen. The latter allows the user to have better visualization. 
 
 
