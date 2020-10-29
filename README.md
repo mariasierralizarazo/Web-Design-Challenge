@@ -21,8 +21,7 @@ In general, the website has 3 important elements:
 <p align="center">
   <img width="560" height="250" src="https://github.com/mariasierralizarazo/Web-Design-Challenge/blob/master/WebVisualizations/assets/images/figures/responsive_small.png?raw=true">
 </p>
-<br></br>
-The pages on the website:
+###Pages on the website:###
 <li>Landing page [Index.html]: It contains the general project's explanation.</li>
 <li>Visualization pages:
 <li>Maximum temperature </li>
